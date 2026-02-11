@@ -1,30 +1,59 @@
-👨‍💻 Backend Developer | Server Systems
+👨‍💻 Backend Developer | Gaming & Server Infrastructure
 
-Leidenschaftlicher Developer mit Fokus auf Gaming-Infrastruktur und serverbasierte Systeme.
-Ich entwickle stabile, performante und strukturierte Backend-Lösungen.
+Leidenschaftlicher Backend-Developer mit Fokus auf stabile, performante und skalierbare Server-Systeme.
+Spezialisiert auf Gaming-Infrastruktur, Discord-Bots, Minecraft-Plugins und Panel-Konfigurationen.
 
-☕ Java Developer
-– Minecraft Plugins (Spigot / Paper)
-– Custom Gameplay-Systeme
-– Server-Management-Tools
-– Performance-optimierte Plugins
+Ich entwickle strukturierte Systeme mit sauberer Architektur, hoher Performance und langfristiger Wartbarkeit.
+Automatisierung, Optimierung und Stabilität stehen bei mir im Mittelpunkt.
 
-⚡ Discord Bot Developer
-– Moderationssysteme
-– Ticket- & Logging-Systeme
-– Slash Commands
-– API- & Datenbank-Integration
-– Automatisierung für Communities
+🚀 Tech Stack
+☕ Core Development
+
+
+
+
+
+
+⚡ Discord Bot Development
+
+
+
+
+
+
+⛏️ Minecraft Development
+
+
+
+
+
 
 🖥️ Panel & Infrastructure
-– Pterodactyl Panel Eggs
-– Pelican Panel Eggs
-– Custom Startup-Konfigurationen
-– Install- & Deployment-Skripte
-– Optimierte Server-Umgebungen
+
+
+
+
+
+
+
+
+🔥 Spezialisierungen
+
+🤖 Entwicklung individueller Discord Bots
+⛏️ Performance-optimierte Minecraft Plugins
+🖥️ Erstellung & Optimierung von Pterodactyl & Pelican Eggs
+⚙️ Server-Automatisierung & Deployment
+📦 Strukturierte Backend-Systeme
+🔒 Stabilität & saubere Architektur
 
 🧠 Arbeitsweise
-– Strukturierter & wartbarer Code
-– Fokus auf Performance & Stabilität
-– Klare Systemarchitektur
-– Kontinuierliche Optimierung
+
+Strukturierter, wartbarer Code
+
+Klare Systemarchitektur
+
+Fokus auf Performance & Effizienz
+
+Kontinuierliche Optimierung
+
+Technisch saubere Lösungen
