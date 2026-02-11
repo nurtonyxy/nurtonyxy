@@ -8,6 +8,13 @@ Automatisierung, Optimierung und Stabilität stehen bei mir im Mittelpunkt.
 
 🚀 Tech Stack
 ☕ Core Development
+## 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-F47B20?style=for-the-badge&logo=java&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge)
 
 
 
