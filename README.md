@@ -72,16 +72,3 @@ Ich entwickle strukturierte Systeme mit sauberer Architektur, hoher Performance 
 - Technisch saubere Lösungen  
 
 ---
-
-# 🎯 Ziel
-
-Leistungsstarke, skalierbare Systeme für Gaming-Communities entwickeln – effizient, stabil und professionell umgesetzt.
-
----
-
-# 🚀 Motto
-
-Build Systems.  
-Automate Everything.  
-Optimize Performance.  
-Code. Improve. Repeat.
