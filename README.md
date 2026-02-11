@@ -61,14 +61,3 @@ Ich entwickle strukturierte Systeme mit sauberer Architektur, hoher Performance 
 - Startup-Parameter & Deployment  
 - Ressourcenoptimierung  
 
----
-
-# 🧠 Arbeitsweise
-
-- Strukturierter & wartbarer Code  
-- Klare Systemarchitektur  
-- Fokus auf Performance & Stabilität  
-- Kontinuierliche Optimierung  
-- Technisch saubere Lösungen  
-
----
