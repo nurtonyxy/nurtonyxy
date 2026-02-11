@@ -1,66 +1,87 @@
-👨‍💻 Backend Developer | Gaming & Server Infrastructure
+# 👨‍💻 Backend Developer | Gaming & Server Infrastructure
 
 Leidenschaftlicher Backend-Developer mit Fokus auf stabile, performante und skalierbare Server-Systeme.
-Spezialisiert auf Gaming-Infrastruktur, Discord-Bots, Minecraft-Plugins und Panel-Konfigurationen.
+
+Spezialisiert auf:
+- 🤖 Discord Bot Development
+- ⛏️ Minecraft Plugin Development
+- 🖥️ Pterodactyl & Pelican Panel Eggs
+- ⚙️ Server-Automatisierung & Infrastruktur
 
 Ich entwickle strukturierte Systeme mit sauberer Architektur, hoher Performance und langfristiger Wartbarkeit.
-Automatisierung, Optimierung und Stabilität stehen bei mir im Mittelpunkt.
 
-🚀 Tech Stack
-☕ Core Development
-## 🚀 Tech Stack
+---
 
+# 🚀 Tech Stack
+
+## ☕ Core Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented-Programming-blue?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-Optimized-green?style=for-the-badge)
+
+## ⚡ Discord Bot Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![API Integration](https://img.shields.io/badge/API-Integration-orange?style=for-the-badge)
+
+## ⛏️ Minecraft Development
 ![Spigot](https://img.shields.io/badge/Spigot-F47B20?style=for-the-badge&logo=java&logoColor=white)
+![PaperMC](https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=paper&logoColor=black)
+![Server Tools](https://img.shields.io/badge/Server-Management-darkgreen?style=for-the-badge)
+
+## 🖥️ Panel & Infrastructure
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge)
+![Pelican](https://img.shields.io/badge/Pelican-2E86C1?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Enabled-orange?style=for-the-badge)
 
+---
 
+# 🔥 Spezialisierungen
 
+### 🤖 Discord Bots
+- Moderationssysteme  
+- Ticket- & Logging-Systeme  
+- Slash Commands  
+- Level- & Economy-Systeme  
+- Automatisierung für Communities  
 
+### ⛏️ Minecraft Plugins
+- Custom Gameplay-Systeme  
+- Permissions- & Rank-Systeme  
+- Server-Management-Tools  
+- Performance-optimierte Plugins  
+- Strukturierte OOP-Architektur  
 
+### 🖥️ Panel Eggs
+- Erstellung & Optimierung von Pterodactyl Eggs  
+- Pelican Panel Konfigurationen  
+- Custom Install-Skripte  
+- Startup-Parameter & Deployment  
+- Ressourcenoptimierung  
 
-⚡ Discord Bot Development
+---
 
+# 🧠 Arbeitsweise
 
+- Strukturierter & wartbarer Code  
+- Klare Systemarchitektur  
+- Fokus auf Performance & Stabilität  
+- Kontinuierliche Optimierung  
+- Technisch saubere Lösungen  
 
+---
 
+# 🎯 Ziel
 
+Leistungsstarke, skalierbare Systeme für Gaming-Communities entwickeln – effizient, stabil und professionell umgesetzt.
 
-⛏️ Minecraft Development
+---
 
+# 🚀 Motto
 
-
-
-
-
-🖥️ Panel & Infrastructure
-
-
-
-
-
-
-
-
-🔥 Spezialisierungen
-
-🤖 Entwicklung individueller Discord Bots
-⛏️ Performance-optimierte Minecraft Plugins
-🖥️ Erstellung & Optimierung von Pterodactyl & Pelican Eggs
-⚙️ Server-Automatisierung & Deployment
-📦 Strukturierte Backend-Systeme
-🔒 Stabilität & saubere Architektur
-
-🧠 Arbeitsweise
-
-Strukturierter, wartbarer Code
-
-Klare Systemarchitektur
-
-Fokus auf Performance & Effizienz
-
-Kontinuierliche Optimierung
-
-Technisch saubere Lösungen
+Build Systems.  
+Automate Everything.  
+Optimize Performance.  
+Code. Improve. Repeat.
