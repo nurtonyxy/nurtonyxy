@@ -33,13 +33,6 @@ Ich entwickle strukturierte Systeme mit sauberer Architektur, hoher Performance 
 
 # 🔥 Spezialisierungen
 
-### 🤖 Discord Bots
-- Moderationssysteme  
-- Ticket- & Logging-Systeme  
-- Slash Commands  
-- Level- & Economy-Systeme  
-- Automatisierung für Communities  
-
 ### ⛏️ Minecraft Plugins
 - Custom Gameplay-Systeme  
 - Permissions- & Rank-Systeme  
