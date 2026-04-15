@@ -1,4 +1,4 @@
-## Developer | Gaming & Server Infrastructure
+## Developer 
 
 Ich entwickle stabile, performante und wartbare Systeme mit Fokus auf Minecraft, Discord Bots, Panel-Infrastruktur und Automatisierung.
 
